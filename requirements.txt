@@ -1,0 +1,11 @@
+langchain
+langgraph
+chromadb
+faiss-cpu
+streamlit
+pypdf
+python-docx
+openai
+huggingface_hub
+tiktoken
+reportlab 
